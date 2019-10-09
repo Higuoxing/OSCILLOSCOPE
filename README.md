@@ -1,4 +1,3 @@
-# OSCILLOSCOPE
-a toy oscilloscope based on fpga
+## OSCILLOSCOPE
 
-一个简易的示波器 显示利用了STM32以及LCD，代码不完整，以后有时间重新写一遍
+> 一个简易的示波器，利用了 FPGA 采样和 STM32 进行显示。2017 年电子设计竞赛的作品，已经没办法跑起来了，但是代码还能看。
